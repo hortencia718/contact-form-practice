@@ -1,0 +1,164 @@
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+  margin-top: 40px;
+}
+
+.form-title {
+  margin-bottom: 20px;
+  color: rgb(65, 95, 95);
+  text-align: center;
+  font-size: 30px;
+}
+
+ .input > input {
+   width: 180px;
+   padding: 10px 20px;
+   outline: none;
+   color:azure;
+   font-size: 14px;
+  
+ } 
+
+
+ .msg > textarea {
+   width: 100%;
+   padding: 10px 20px;
+   outline: none;
+ }
+
+ .btn button {
+   border: 2px solid red;
+   padding: 10px 20px;
+   color:cornflowerblue;
+   cursor: pointer;
+   transition: all 0.5s ease;
+   font-size: 14px;
+ }
+
+
+ /* div.wrapper h1 {
+    width:100%;
+    display:flex;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(117, 135, 151);
+    box-sizing: border-box;
+    margin-right: 26px;
+} */
+/* form{
+  display: inline;
+
+} */
+
+
+  /* .email h2{
+    display:flex;
+    padding: 10px;
+    margin-right: 22px;
+    color:#778d94;
+    justify-content: center;
+  }
+
+
+
+
+ /* .wrapper h2{
+     display:flex;
+     text-align: center;
+     padding: 0px;
+     margin: 0;
+ } */
+
+     
+
+
+    /* input{
+        height: 20px;
+    }  */
+
+
+    /* input.form-control.submit{
+        background: rgb(172, 199, 218);
+        border-color:transparent;
+        color:rgb(44, 48, 51);
+        font-size: 20px;
+        letter-spacing: 2px;
+        height: 50px;
+        margin-top: 20px;
+
+    } */
+
+
+
+     /* textarea.form-control {
+        padding: 20px;
+        width:400px;
+        font-size: 20px;
+        font-family: 'Poppins', sans-serif;
+        color:rgb(117, 135, 151); */
+    /* } 
+   
+       
+
+        .form-control  {
+            width: 400px;
+            border:none;
+            outline: none;
+            border-bottom: 1px solid rgb(155, 164, 172);
+            font-size: 20px;
+            margin-bottom: 16px;
+            font-family: 'Poppins', sans-serif;
+            color:rgb(117, 135, 151);
+        } */ 
+
+
+        /* about me  */
+        /* .aboutme-container h1 {
+           display: flex;
+           justify-content: center;
+           padding: 10px;
+          
+        } */
+
+    
+
+        /* contact page paragraph */
+       /* div p {
+            display:flex;
+            font-size: 18px;
+            font-family: 'Poppins', sans-serif;
+            color: rgb(117, 135, 151);
+            text-align: center;
+            justify-content: center;
+            margin-left: 0px;
+            padding: 30px;
+            width: 65%;
+            /* overflow:auto; */
+
+        /* } */ 
+        
+         /* border around the p div */ 
+        /* .border-box {
+           width: 200px;
+       /* }  */ 
+       
+       
+       /* .contact-container {
+           display: flex;
+       } */
+
+
+       /* main container */
+        /* main.contact-container {
+           display: flex;
+           align-content:center ;
+           padding:80px;
+           margin: 0px;
+        }  */
+
+
+
+
